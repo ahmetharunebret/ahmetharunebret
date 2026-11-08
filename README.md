@@ -5,3 +5,8 @@
 - 🛠️ **Tools:** Bash, Git, Docker, Terminal Utilities
 
 ---
+
+### 🎯 Certification Roadmap
+- [ ] **LPI Linux Essentials** *(Target: Core Linux System & Terminal Proficiency)*
+
+---
